@@ -1,0 +1,66 @@
+{
+    "name": "Codeship",
+    "description": "Codeship is a fast and secure hosted Continuous Integration service that scales with your needs. It supports GitHub, Bitbucket, and Gitlab projects.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20096-codeship.jpg",
+    "tags": [
+        "api service provider",
+        "containers",
+        "have api",
+        "orchestration"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/codeship\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Codeship",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20096-codeship.jpg",
+            "humanURL": "https:\/\/codeship.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/codeship-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/blog.codeship.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.codeship.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/codeship"
+        },
+        {
+            "type": "Email",
+            "url": "contact@codeship.com"
+        },
+        {
+            "type": "Email",
+            "url": "mo@codeship.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/codeship"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/codeship"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/codeship.com\/"
+        }
+    ]
+}
