@@ -1,0 +1,32 @@
+aid: codeship
+name: Codeship
+description: "Codeship is a Continuous Integration Platform in the cloud"
+url: https://docs.cloudbees.com/docs/cloudbees-codeship/latest/api-overview/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Continuous Integration"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Continuous Integration
+  - Public APIs
+apis:
+  - name: Codeship
+    description: "Codeship is a Continuous Integration Platform in the cloud"
+    humanURL: https://docs.cloudbees.com/docs/cloudbees-codeship/latest/api-overview/
+    baseURL: https://docs.cloudbees.com/docs/cloudbees-codeship/latest/api-overview/
+    tags:
+      - Continuous Integration
+    properties:
+      - type: Documentation
+        url: https://docs.cloudbees.com/docs/cloudbees-codeship/latest/api-overview/
+common:
+  - type: Website
+    url: https://docs.cloudbees.com/docs/cloudbees-codeship/latest/api-overview/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
