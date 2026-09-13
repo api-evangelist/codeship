@@ -34,6 +34,7 @@ x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
   - Continuous Integration
+  - Developer Tools
   - Public APIs
 apis:
   - name: Codeship
