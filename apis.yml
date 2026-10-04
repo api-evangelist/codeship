@@ -40,7 +40,6 @@ apis:
   - name: Codeship
     description: "Codeship is a Continuous Integration Platform in the cloud"
     humanURL: https://docs.cloudbees.com/docs/cloudbees-codeship/latest/api-overview/
-    baseURL: https://docs.cloudbees.com/docs/cloudbees-codeship/latest/api-overview/
     tags:
       - Continuous Integration
     properties:
